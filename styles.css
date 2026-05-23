@@ -59,8 +59,14 @@
             border: 1px solid black;
             padding: 10px;
         }
+        .texto {
+            text-align: justify;
+        }
 
 #Futbol
+        .texto p{
+            text-align: justify;
+        }
         .futbol body{
             font-family: Arial;
             background-color: #f0f8ff;
@@ -95,6 +101,7 @@
             border-radius: 10px;
         }
 #natacion
+      
          .natacion body{
             font-family: Arial;
             background-color: #f0f8ff;
@@ -110,6 +117,7 @@
             border-radius: 10px;
         }
 #atletismo
+
         .atletismo body{
             font-family: Arial;
             background-color: #f0f8ff;
